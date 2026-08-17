@@ -4,7 +4,6 @@ import com.guilherme.course.entities.Order;
 import com.guilherme.course.entities.Product;
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
 
 import java.io.Serial;
